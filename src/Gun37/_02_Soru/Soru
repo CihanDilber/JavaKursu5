@@ -1,0 +1,6 @@
+Ekteki Tasarıma göre gerekli modülleri yazınız.
+Sonra her birinden nesne üretiniz.
+metodlarin hepsinin tipi String
+
+- ürettiğiniz nesneleri bir ArrayListe ekletip, daha sonra bu ArrayList i
+bir döngü ile metodlarını ekrana yazdırınız.
